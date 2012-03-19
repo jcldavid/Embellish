@@ -16,4 +16,6 @@ Retrieve the image by using the `getIMG()` method.
 Config
 ------
 **source** - The server to be used to get the QRCodes
+
 **size** - width/height of the image
+
