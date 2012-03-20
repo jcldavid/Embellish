@@ -1,7 +1,7 @@
 About
 ------
 
-Embellish is a simple class for generating QR Codes. You are free to use it and modify it as you wish.
+Embellish is a beautiful class for generating **QR Codes**. You are free to use it and modify it as you wish.
 
 Usage
 -----------
