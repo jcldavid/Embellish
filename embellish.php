@@ -8,7 +8,7 @@ class Embellish {
 	/**
 	 * @params string - any text you would want the QRCode to have
 	 */
-	function __construct($string){
+	function Embellish($string){
 		$config = include 'config.php';
 		
 		switch($config['source']){
